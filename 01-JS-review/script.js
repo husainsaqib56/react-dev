@@ -238,5 +238,5 @@ async function getTodos() {
   console.log(data);
 }
 
-const data1 = getTodos();
-console.log(data1)
+const todos = getTodos();
+console.log(todos)
