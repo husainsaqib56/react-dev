@@ -13,6 +13,7 @@ A collection of small React practice projects and challenges by husainsaqib56.
 - `05-accordion-example` — Create React App project (accordion UI exercise).
 - `06-steps` — Create React App project (steps UI exercise).
 - `07-tip-calculator` — Create React App project (tip calculator challenge).
+- `08-eat-n-split` — Create React App project (expense splitting app).
 
 ## Prerequisites
 
