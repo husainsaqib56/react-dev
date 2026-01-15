@@ -188,4 +188,6 @@ If you'd like to contribute or add explanations for individual projects, open a 
 
 ## License
 
-Unspecified. Add a `LICENSE` file if you want to set a specific licensing.
+This project is licensed under the **MIT License** - see the [LICENSE](./LICENSE) file for details.
+
+You are free to use, modify, and distribute this code with proper attribution.
