@@ -1,6 +1,6 @@
 # react-dev
 
-[![GitHub stars](https://img.shields.io/github/stars/husainsaqib56/react-dev?style=flat-square)](https://github.com/husainsaqib56/react-dev/stargazers) [![Issues](https://img.shields.io/github/issues/husainsaqib56/react-dev?style=flat-square)](https://github.com/husainsaqib56/react-dev/issues) [![License](https://img.shields.io/github/license/husainsaqib56/react-dev?style=flat-square)](https://github.com/husainsaqib56/react-dev)
+[![GitHub stars](https://img.shields.io/github/stars/husainsaqib56/react-dev?style=flat-square)](https://github.com/husainsaqib56/react-dev/stargazers) [![Issues](https://img.shields.io/github/issues/husainsaqib56/react-dev?style=flat-square)](https://github.com/husainsaqib56/react-dev/issues) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 
 A collection of small React practice projects and challenges. This workspace contains various learning exercises covering React fundamentals, state management, UI components, and interactive applications.
 
