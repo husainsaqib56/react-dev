@@ -11,7 +11,7 @@ A collection of small React practice projects and challenges. This workspace con
 
 ## Projects Overview
 
-### 1. [01-react-random-advice](./01-react-random-advice/)
+### 1. [react-random-advice](./01-react-random-advice/)
 **Random Advice Generator** - A Vite + React project that fetches and displays random advice quotes. Built with modern tooling using Vite for fast development and Hot Module Replacement (HMR).
 
 **Stack**: React, Vite, JavaScript  
@@ -25,7 +25,7 @@ npm run dev
 
 ---
 
-### 2. [02-JS-review](./02-JS-review/)
+### 2. [JS-review](./02-JS-review/)
 **JavaScript Review & Practice** - A collection of JavaScript practice snippets and code examples for reviewing core JavaScript concepts and features.
 
 **Stack**: Vanilla JavaScript  
@@ -34,7 +34,7 @@ npm run dev
 
 ---
 
-### 3. [03-pizza-menu](./03-pizza-menu/)
+### 3. [pizza-menu](./03-pizza-menu/)
 **Pizza Menu Application** - A Create React App project showcasing a pizza restaurant menu with dynamic data rendering. Demonstrates component composition and data handling.
 
 **Stack**: React (Create React App), JavaScript, CSS  
@@ -48,7 +48,7 @@ npm start
 
 ---
 
-### 4. [04-travel-list](./04-travel-list/)
+### 4. [travel-list](./04-travel-list/)
 **Travel Packing List** - A Create React App project for managing travel packing items. Features adding, removing, and marking items as packed. Great introduction to state management and form handling.
 
 **Stack**: React (Create React App), JavaScript, CSS  
@@ -62,7 +62,7 @@ npm start
 
 ---
 
-### 5. [05-accordion-example](./05-accordion-example/)
+### 5. [accordion-example](./05-accordion-example/)
 **Accordion UI Component** - A Create React App project demonstrating an accordion (collapsible content) component. Useful for learning conditional rendering and state-based UI interactions.
 
 **Stack**: React (Create React App), JavaScript, CSS  
@@ -76,7 +76,7 @@ npm start
 
 ---
 
-### 6. [06-steps](./06-steps/)
+### 6. [steps](./06-steps/)
 **Steps Navigation Component** - A Create React App project featuring a step-by-step navigation UI. Demonstrates state management and button-based navigation patterns.
 
 **Stack**: React (Create React App), JavaScript, CSS  
@@ -90,7 +90,7 @@ npm start
 
 ---
 
-### 7. [07-tip-calculator](./07-tip-calculator/)
+### 7. [tip-calculator](./07-tip-calculator/)
 **Tip Calculator Challenge** - A Create React App project implementing a tip calculator. Users can input bill amounts and tip percentages to calculate totals. Excellent for practicing form handling and calculations.
 
 **Stack**: React (Create React App), JavaScript, CSS  
@@ -104,7 +104,7 @@ npm start
 
 ---
 
-### 8. [08-eat-n-split](./08-eat-n-split/)
+### 8. [eat-n-split](./08-eat-n-split/)
 **Eat-N-Split Expense Splitter** - A Create React App project for splitting expenses among friends. Features adding friends, tracking expenses, and calculating who owes whom.
 
 **Stack**: React (Create React App), JavaScript, CSS  
@@ -118,7 +118,7 @@ npm start
 
 ---
 
-### 9. [09-use-popcorn](./09-use-popcorn/)
+### 9. [use-popcorn](./09-use-popcorn/)
 **Use-Popcorn Movie App** - A Create React App project for browsing and rating movies. Features API integration with OMDb, search functionality, and user ratings. This is a more advanced project demonstrating complex state management and data fetching.
 
 **Stack**: React (Create React App), JavaScript, CSS, API integration  
@@ -132,7 +132,7 @@ npm start
 
 ---
 
-### 10. [10-text-expander](./10-text-expander/)
+### 10. [text-expander](./10-text-expander/)
 **Text Expander** - A small utility for expanding typed shortcuts into predefined text snippets. Implemented as a lightweight app to practice keyboard handling, local storage, and UI interactions.
 
 **Stack**: JavaScript (or React)  
