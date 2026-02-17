@@ -130,8 +130,6 @@ npm install
 npm start
 ```
 
-```
-
 ---
 
 ### 10. [10-text-expander](./10-text-expander/)
@@ -142,8 +140,6 @@ npm start
 **Run Commands**:
 ```bash
 cd 10-text-expander
-# If plain HTML/JS: open index.html
-# If React app:
 npm install
 npm start
 ```
