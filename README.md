@@ -130,6 +130,24 @@ npm install
 npm start
 ```
 
+```
+
+---
+
+### 10. [10-text-expander](./10-text-expander/)
+**Text Expander** - A small utility for expanding typed shortcuts into predefined text snippets. Implemented as a lightweight app to practice keyboard handling, local storage, and UI interactions.
+
+**Stack**: JavaScript (or React)  
+**Features**: Define shortcuts, expand snippets on typing or trigger, persist snippets in local storage  
+**Run Commands**:
+```bash
+cd 10-text-expander
+# If plain HTML/JS: open index.html
+# If React app:
+npm install
+npm start
+```
+
 ---
 
 ## Running Projects
