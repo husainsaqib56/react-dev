@@ -181,6 +181,7 @@ react-dev/
 ├── 07-tip-calculator/         (Create React App)
 ├── 08-eat-n-split/            (Create React App)
 ├── 09-use-popcorn/            (Create React App)
+├── 10-text-expander/          (Utility)
 └── README.md
 ```
 
